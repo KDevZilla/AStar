@@ -23,7 +23,7 @@ The map consists of five types of cells.
 
 
 2. Once you've completed configuring the map, simply select AStar Search or Breath First Search.
-3. The number shows on each cell is the number of step you need to move from the intial cell to the end cell.
+3. The number shows on each cell is the number of steps you need to move from the intial cell to the end cell.
 
  
 
