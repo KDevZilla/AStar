@@ -31,7 +31,7 @@ The map consists of five types of cells.
 # How to setup a project
 1. Just download a project, it is just a small program written in C# Windows Form.
 
-# Refernce 
+# Reference 
 [A* Search](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 [Breath First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
