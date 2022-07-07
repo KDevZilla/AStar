@@ -1,6 +1,7 @@
 # AStar
 
 The A* search algorithm and Breath-first search are demonstrated in this software.
+A* is the most popular choice amoung the developer who need to implement a path finding algorithm.
 
 ![Image Image](https://github.com/KDevZilla/Resource/blob/main/AStar_Screen_01.png)
 
@@ -22,6 +23,7 @@ The map consists of five types of cells.
 
 
 2. Once you've completed configuring the map, simply select AStar Search or Breath First Search.
+3. The number shows on each cell is the number of step you need to move from the intial cell to the end cell.
 
  
 
