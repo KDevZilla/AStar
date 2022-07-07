@@ -1,7 +1,7 @@
 # AStar
 
 The A* search algorithm and Breath-first search are demonstrated in this software.
-A* is the most popular choice amoung the developer who need to implement a path finding algorithm.
+A* is the most popular choice among the developers who need to implement a path finding algorithm.
 
 ![Image Image](https://github.com/KDevZilla/Resource/blob/main/AStar_Screen_01.png)
 
